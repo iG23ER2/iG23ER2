@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iG23ER2
-- 👀 I’m interested in Golang/Python/Html/CSS
+- 👀 I’m interested in Golang/Python/Html/CSS/JavaScript
 - 🌱 I’m currently learning
 - 📫 How to reach me m2302835@gmail.com
 
